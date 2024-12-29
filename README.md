@@ -14,8 +14,8 @@ A Flutter app that integrates Razorpay for secure and seamless payment processin
 ## Setup
 1. Clone the repository and navigate to the project folder:  
    ```bash
-   git clone https://github.com/your-username/flutter-razorpay-app.git
-   cd flutter-razorpay-app
+   git clone https://github.com/ipriyanshu19/payzo.git
+   cd payzo
    ```
 2. Install dependencies using `flutter pub get`.  
 3. Replace the placeholder API key with your Razorpay API key in the project.  
